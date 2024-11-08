@@ -4,10 +4,11 @@ This NLP model was trained using nearly 50K word from E-commerce platforms to fi
 ## **Descriptions:**
 1. **_Objective:_** To categorize specific types of products that are trending in e-commerce platforms using Neutral Language Processing model.
 2. This datasets contain crucial information which might shape the market trends or influence the investment flows.
-3. 
+3. This model using 5000 tokens with 200 output sequence length for the tokenization process
 
 ### *Model Architecture:-*
 ![model](https://github.com/user-attachments/assets/6f719bc7-15f3-46fe-a0f4-a0fd1eca6ecc)
+####
 
 ## **Results:**
 
