@@ -18,7 +18,7 @@ This NLP model was trained using nearly 50K word from E-commerce platforms to fi
 ![F1_score](https://github.com/user-attachments/assets/efaa0c96-4f70-4911-b81d-7d0a930adad3)
 
 
-### *Graph Model Evaluation:-*
+### *Graph:-*
 
 #### Graph Model Accuracy:-
 ![Accuracy_Evaluation](https://github.com/user-attachments/assets/42d4d2c9-e35e-4f16-abae-48e0c8731b18)
