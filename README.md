@@ -1,4 +1,6 @@
 # **E-commerce Classifier using NLP**
+![ecomme](https://github.com/user-attachments/assets/2f0f305e-35ce-4d52-a949-fdb0499112f9)  
+
 This NLP model was trained using nearly 50K word from E-commerce platforms to filter the products into different categories.
 
 ## **Descriptions:**
