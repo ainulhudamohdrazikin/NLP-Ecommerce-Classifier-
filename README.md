@@ -1,7 +1,10 @@
-# **Ecommerce Classifier using NLP**
+# **E-commerce Classifier using NLP**
 This NLP model was trained using nearly 50K word from E-commerce platforms to filter the products into different categories.
 
 ## **Descriptions:**
+1. **_Objective:_** To categorize specific types of products that are trending in e-commerce platforms using Neutral Language Processing model.
+2. This datasets contain crucial information which might shape the market trends or influence the investment flows.
+3. 
 
 ### *Model Architecture:-*
 ![model](https://github.com/user-attachments/assets/6f719bc7-15f3-46fe-a0f4-a0fd1eca6ecc)
