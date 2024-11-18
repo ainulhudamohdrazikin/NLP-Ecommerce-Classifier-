@@ -10,7 +10,8 @@ This NLP model was trained using nearly 50K word from E-commerce platforms to fi
 
 ### *Model Architecture:-*
 ![model](https://github.com/user-attachments/assets/6f719bc7-15f3-46fe-a0f4-a0fd1eca6ecc)
-####
+
+#### The model consists of 4 main layers which are TextVectorization, Embedding, Bidirectional and Dense. 
 
 ## **Results:**
 
